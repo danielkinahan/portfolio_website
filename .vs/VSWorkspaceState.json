@@ -1,11 +1,16 @@
 {
   "ExpandedNodes": [
     "",
-    "\\public",
     "\\src",
     "\\src\\components",
-    "\\src\\components\\Header"
+    "\\src\\components\\Hero",
+    "\\src\\components\\Projects",
+    "\\src\\constants",
+    "\\src\\pages",
+    "\\src\\styles",
+    "\\src\\styles\\GlobalComponents",
+    "\\src\\themes"
   ],
-  "SelectedNode": "\\src\\components\\Header\\Header.js",
+  "SelectedNode": "\\src\\constants\\constants.js",
   "PreviewInSolutionExplorer": false
 }
