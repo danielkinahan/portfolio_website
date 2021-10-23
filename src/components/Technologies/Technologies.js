@@ -5,40 +5,40 @@ import { List, ListContainer, ListItem, ListParagraph, ListTitle } from './Techn
 
 const Technologies = () =>  (
     <Section id="tech">
-        <br />
         <SectionDivider />
+        <br />
         <SectionTitle>Technologies</SectionTitle>
         <SectionText>
-            Worked with a range of technologies to blah blah blah.
+            I've worked with a plethora of technologies. Here are my favourites.
         </SectionText>
         <List>
             <ListItem>
                 <DiFirebase size="3rem" />
                 <ListContainer>
-                    <ListTitle>Front-End</ListTitle>
+                    <ListTitle>Object-Oriented</ListTitle>
                     <ListParagraph>
                     Experienced  with <br />
-                    React.js
+                    C++, Java, Perl, Python, R
                     </ListParagraph>
                 </ListContainer>
             </ListItem>
             <ListItem>
                 <DiReact size="3rem" />
                 <ListContainer>
-                    <ListTitle>Back-End</ListTitle>
+                    <ListTitle>Embedded</ListTitle>
                     <ListParagraph>
                         Experienced  with <br />
-                        Node and databases
+                        C, Assembly
                     </ListParagraph>
                 </ListContainer>
             </ListItem>
             <ListItem>
                 <DiZend size="3rem" />
                 <ListContainer>
-                    <ListTitle>Front-End</ListTitle>
+                    <ListTitle>Web Development</ListTitle>
                     <ListParagraph>
                         Experienced  with <br />
-                        React.js
+                        React.js, PHP, Oracle SQL
                     </ListParagraph>
                 </ListContainer>
             </ListItem>

@@ -1,0 +1,2 @@
+Add README's to projects
+Change theme to light

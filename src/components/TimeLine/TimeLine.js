@@ -46,7 +46,7 @@ const Timeline = () => {
       <Section id="about">
           <SectionTitle>About Me</SectionTitle>
           <SectionText>
-              Value proposition and big milestones, how i started
+              The spark lit for me right away after I wrote my first script as a teenager. Since then I've delved into many languages, understanding the intricacies of each and created robust, enterprise-level projects. I'm looking forward to getting started on your project!
           </SectionText>
           <CarouselContainer ref={carouselRef} onScroll={handleScroll}>
               <>
