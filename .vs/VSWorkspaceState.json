@@ -1,16 +1,16 @@
 {
   "ExpandedNodes": [
     "",
-    "\\src",
     "\\src\\components",
+    "\\src\\components\\Hero",
+    "\\src\\components\\Projects",
     "\\src\\components\\Technologies",
-    "\\src\\components\\TimeLine",
-    "\\src\\constants",
+    "\\src\\layout",
     "\\src\\pages",
+    "\\src\\pages\\api",
     "\\src\\styles",
-    "\\src\\styles\\GlobalComponents",
-    "\\src\\themes"
+    "\\src\\styles\\GlobalComponents"
   ],
-  "SelectedNode": "\\src\\components\\TimeLine\\TimeLine.js",
+  "SelectedNode": "\\src",
   "PreviewInSolutionExplorer": false
 }
